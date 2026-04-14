@@ -1,0 +1,8 @@
+Problem Breakdown:
+1st. Process Node Init
+	-> read first line to get node and neighbors
+		-> consider object with node with dict connection to link cost from next line
+	
+consider  dictionary of tuple to distance, (Source, Destination) = Distance
+
+
